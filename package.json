@@ -1,7 +1,7 @@
 {
   "name": "vue-component-communication",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://github.com/actionanand/vue-component-communication",
   "scripts": {
     "serve": "vue-cli-service serve",
